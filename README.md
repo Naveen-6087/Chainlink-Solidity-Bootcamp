@@ -49,4 +49,3 @@ Key features:
 - **Chainlink CCIP Interfaces**
 - **Remix IDE** (Day 1)
 - **Custom ERC20 + AccessControl**
-- 
